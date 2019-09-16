@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "Erik Kjernlie <erik.kjernlie@gmail.com> (www.instanote.no)",
+  "author": "Erik Kjernlie and Herman Horn",
   "license": "MIT",
   "dependencies": {
     "next": "^9.0.5",
